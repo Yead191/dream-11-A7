@@ -1,0 +1,125 @@
+{
+    "players": [
+      {
+        "playerId": 1,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/NTPxvVH/7992d7c9ecf9aaf1e8c353c34b92c41e.jpg",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm orthodox",
+        "biddingPrice": "1900000"
+      },
+      {
+        "playerId": 2,
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/9c7g3Xc/386120-10.png",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "1200000"
+      },
+      {
+        "playerId": 3,
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/BCnKw54/licensed-image-q-tbn-ANd9-Gc-Qw-Tg-Yp-DL0-YL60-Zv4rzaa-BOl-Ihfgar-Un-Ykw5da-Tz9m-Vfiw-Ft-Jm0oxg-Qmn.jpg",
+        "role": "Bowler",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": "1400000"
+      },
+      {
+        "playerId": 4,
+        "name": "Mahmudullah Riyad",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/KrwX8C2/mahmudullah-royad-17-07-2023.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "1100000"
+      },
+      {
+        "playerId": 5,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://i.ibb.co.com/dmg1QCM/2.png",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": "2400000"
+      },
+      {
+        "playerId": 6,
+        "name": "Joe Root",
+        "country": "England",
+        "image": "https://i.ibb.co.com/Rh6LNPW/player-mobile-root-564x640-jpg.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "1800000"
+      },
+      {
+        "playerId": 7,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/7WVrg3W/383103.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "2000000"
+      },
+      {
+        "playerId": 8,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://i.ibb.co.com/wzWSbmg/4ef905d0-82e1-11ef-93fc-47e7b6e6a87f.jpg",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm fast-medium",
+        "biddingPrice": "3100000"
+      },
+      {
+        "playerId": 9,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://i.ibb.co.com/YNGtRqK/licensed-image-q-tbn-ANd9-Gc-RCl-Fllm-RGol1bc6yh-Lnfa-VBRD55-EQTf28-Q-xg2-Qj3k9-Fw-B6s-I9-Tus-Iga-Hs.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": "1700000"
+      },
+      {
+        "playerId": 10,
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/KF2XntN/Mitchell-Starc-Biography.jpg",
+        "role": "Bowler",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": "2200000"
+      },
+      {
+        "playerId": 11,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://i.ibb.co.com/3ksqFVd/9.png",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": "2300000"
+      },
+      {
+        "playerId": 12,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/fqgGvBt/images-q-tbn-ANd9-Gc-RBs-LN8ts-Jl-ZDr-ESTCij-BBKq-Z125-Ii-Jya-Fq9-Atk-UCkz-LX7-WNKb-N.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "2500000"
+      }
+    ]
+  }
+  
